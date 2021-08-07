@@ -1,5 +1,4 @@
-// alert("Js Linked");
-// SOLID
+
 const render = {
     init(gameObj) {
         // drawSky
